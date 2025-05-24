@@ -1,0 +1,16 @@
+{
+    "parent": "minecraft:item/generated",
+    "textures": {
+      "layer0": "minecraft:item/written_book"
+    },
+    "overrides": [
+    
+      { "predicate": {"custom_model_data": 2}, "model": "item/custom/green_card"},
+      { "predicate": {"custom_model_data": 3}, "model": "item/custom/red_card"},
+      { "predicate": {"custom_model_data": 4}, "model": "item/custom/black_card"},
+      { "predicate": {"custom_model_data": 5}, "model": "item/custom/blue_card"},
+      { "predicate": {"custom_model_data": 6}, "model": "item/custom/yellow_card"}
+      
+    ]
+  }
+  

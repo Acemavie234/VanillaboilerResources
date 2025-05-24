@@ -1,11 +1,7 @@
 {
-    "pack": {
-        "pack_format": 1,
-        "name": "Server Resourcepack",
-        "description": "Generated with https://github.com/OffsetMods538/Github-Resourcepack-Manager",
-        "supported_formats": {
-            "min_inclusive": 1,
-            "max_inclusive": 99
-        }
-    }
+  "pack": {
+    "pack_format": 9,
+    "description": "Vanilla Boiler 2.0 custom texutes",
+    "_comment": "Also ace miks sa loed seda???"
+  }
 }
