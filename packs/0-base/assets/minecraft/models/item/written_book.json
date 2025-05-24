@@ -1,16 +1,47 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/written_book"
-    },
-    "overrides": [
-    
-      { "predicate": {"custom_model_data": 2}, "model": "item/custom/green_card"},
-      { "predicate": {"custom_model_data": 3}, "model": "item/custom/red_card"},
-      { "predicate": {"custom_model_data": 4}, "model": "item/custom/black_card"},
-      { "predicate": {"custom_model_data": 5}, "model": "item/custom/blue_card"},
-      { "predicate": {"custom_model_data": 6}, "model": "item/custom/yellow_card"}
-      
-    ]
-  }
-  
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/written_book"
+        },
+        "entries": [
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/green_card"
+                }
+            },
+            {
+                "threshold": 3,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/red_card"
+                }
+            },
+            {
+                "threshold": 4,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/black_card"
+                }
+            },
+            {
+                "threshold": 5,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/blue_card"
+                }
+            },
+            {
+                "threshold": 6,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/yellow_card"
+                }
+            }
+        ]
+    }
+}

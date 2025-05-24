@@ -1,21 +1,68 @@
 {
-    "parent": "minecraft:item/generated",
-    "textures": {
-      "layer0": "minecraft:item/iron_nugget"
-    },
-    "overrides": [
-    
-      
-      { "predicate": {"CustomModelData": 5}, "model": "item/custom/motor"},
-      { "predicate": {"custom_model_data": 2}, "model": "item/custom/100eru"},
-      { "predicate": {"custom_model_data": 10}, "model": "item/custom/bluebook"},
-      { "predicate": {"custom_model_data": 11}, "model": "item/custom/cyanbook"},
-      { "predicate": {"custom_model_data": 12}, "model": "item/custom/greenbook"},
-      { "predicate": {"custom_model_data": 13}, "model": "item/custom/limebook"},
-      { "predicate": {"custom_model_data": 14}, "model": "item/custom/orangebook"},
-      { "predicate": {"custom_model_data": 15}, "model": "item/custom/purplebook"},
-      { "predicate": {"custom_model_data": 16}, "model": "item/custom/redbook"}
-      
-    ]
-  }
-  
+    "model": {
+        "type": "range_dispatch",
+        "property": "custom_model_data",
+        "fallback": {
+            "type": "model",
+            "model": "minecraft:item/iron_nugget"
+        },
+        "entries": [
+            {
+                "threshold": 2,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/100eru"
+                }
+            },
+            {
+                "threshold": 10,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/bluebook"
+                }
+            },
+            {
+                "threshold": 11,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/cyanbook"
+                }
+            },
+            {
+                "threshold": 12,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/greenbook"
+                }
+            },
+            {
+                "threshold": 13,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/limebook"
+                }
+            },
+            {
+                "threshold": 14,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/orangebook"
+                }
+            },
+            {
+                "threshold": 15,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/purplebook"
+                }
+            },
+            {
+                "threshold": 16,
+                "model": {
+                    "type": "model",
+                    "model": "item/custom/redbook"
+                }
+            }
+        ]
+    }
+}
