@@ -6,7 +6,7 @@
     "overrides": [
     
       
-      { "predicate": {"custom_model_data": 5}, "model": "item/custom/motor"},
+      { "predicate": {"CustomModelData": 5}, "model": "item/custom/motor"},
       { "predicate": {"custom_model_data": 2}, "model": "item/custom/100eru"},
       { "predicate": {"custom_model_data": 10}, "model": "item/custom/bluebook"},
       { "predicate": {"custom_model_data": 11}, "model": "item/custom/cyanbook"},
