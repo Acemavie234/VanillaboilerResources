@@ -1,0 +1,76 @@
+{
+  "model": {
+    "type": "minecraft:range_dispatch",
+    "property": "minecraft:custom_model_data",
+    "index": 0,
+    "fallback": {
+      "type": "minecraft:model",
+      "model": "minecraft:item/barrier"
+    },
+    "entries": [
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/motor"
+        },
+        "threshold": 5
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/100eru"
+        },
+        "threshold": 2
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/bluebook"
+        },
+        "threshold": 10
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/cyanbook"
+        },
+        "threshold": 11
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/greenbook"
+        },
+        "threshold": 12
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/limebook"
+        },
+        "threshold": 13
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/orangebook"
+        },
+        "threshold": 14
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/purplebook"
+        },
+        "threshold": 15
+      },
+      {
+        "model": {
+          "type": "minecraft:model",
+          "model": "minecraft:item/custom/redbook"
+        },
+        "threshold": 16
+      }
+    ]
+  }
+}
