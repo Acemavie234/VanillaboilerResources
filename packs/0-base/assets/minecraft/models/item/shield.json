@@ -47,8 +47,6 @@
                 "blocking": 1
             },
             "model": "item/shield_blocking"
-        },
-        {"predicate": {"custom_model_data": 1}, "model": "item/custom/prisonshield"},
-        {"predicate": { "blocking": 1, "custom_model_data":1 }, "model": "item/custom/prisonshield2b" }
+        }
     ]
 }
