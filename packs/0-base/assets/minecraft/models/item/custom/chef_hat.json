@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/chef_hat",
-		"particle": "block/custom/chef_hat"
+		"0": "item/chef_hat",
+		"particle": "item/chef_hat"
 	},
 	"elements": [
 		{

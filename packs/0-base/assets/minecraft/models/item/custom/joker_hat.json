@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/custom/joker",
-		"1": "block/custom/joker_details",
-		"particle": "block/custom/joker"
+		"0": "item/joker",
+		"1": "item/joker_details",
+		"particle": "item/joker"
 	},
 	"elements": [
 		{

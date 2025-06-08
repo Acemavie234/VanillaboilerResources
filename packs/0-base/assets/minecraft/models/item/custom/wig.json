@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/wig",
-		"particle": "block/custom/wig"
+		"0": "item/wig",
+		"particle": "item/wig"
 	},
 	"elements": [
 		{

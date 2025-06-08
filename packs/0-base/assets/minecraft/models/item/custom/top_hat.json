@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/top_hat",
-		"particle": "block/custom/top_hat"
+		"0": "item/top_hat",
+		"particle": "item/top_hat"
 	},
 	"elements": [
 		{

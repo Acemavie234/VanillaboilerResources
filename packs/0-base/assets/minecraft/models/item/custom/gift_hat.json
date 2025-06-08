@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/custom/gift_hat",
-		"particle": "block/custom/gift_hat"
+		"0": "item/gift_hat",
+		"particle": "item/gift_hat"
 	},
 	"elements": [
 		{

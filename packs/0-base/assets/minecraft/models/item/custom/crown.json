@@ -2,11 +2,11 @@
 	"credit": "Made with Blockbench",
 	"ambientocclusion": false,
 	"textures": {
-		"0": "block/custom/crown_base",
-		"1": "block/custom/crown_detail1",
-		"2": "block/custom/crown_detail2",
-		"3": "block/custom/crown_detail3",
-		"particle": "block/custom/crown_base"
+		"0": "item/crown_base",
+		"1": "item/crown_detail1",
+		"2": "item/crown_detail2",
+		"3": "item/crown_detail3",
+		"particle": "item/crown_base"
 	},
 	"elements": [
 		{

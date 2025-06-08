@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/explorer_hat",
-		"particle": "block/custom/explorer_hat"
+		"0": "item/explorer_hat",
+		"particle": "item/explorer_hat"
 	},
 	"elements": [
 		{

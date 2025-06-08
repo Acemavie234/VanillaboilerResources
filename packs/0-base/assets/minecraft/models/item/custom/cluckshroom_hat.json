@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/custom/cluckshroom",
-		"1": "block/custom/cluckshroom_base",
-		"particle": "block/custom/cluckshroom"
+		"0": "item/cluckshroom",
+		"1": "item/cluckshroom_base",
+		"particle": "item/cluckshroom"
 	},
 	"elements": [
 		{

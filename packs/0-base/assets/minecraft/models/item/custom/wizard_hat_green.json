@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/wizard_hat_green",
-		"particle": "block/custom/wizard_hat_green"
+		"0": "item/wizard_hat_green",
+		"particle": "item/wizard_hat_green"
 	},
 	"elements": [
 		{

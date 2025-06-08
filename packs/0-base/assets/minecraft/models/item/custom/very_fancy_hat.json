@@ -3,9 +3,9 @@
 	"ambientocclusion": false,
 	"texture_size": [64, 64],
 	"textures": {
-		"0": "block/custom/very_fancy_hat",
-		"1": "block/custom/fancy_hat",
-		"particle": "block/custom/very_fancy_hat"
+		"0": "item/very_fancy_hat",
+		"1": "item/fancy_hat",
+		"particle": "item/very_fancy_hat"
 	},
 	"elements": [
 		{

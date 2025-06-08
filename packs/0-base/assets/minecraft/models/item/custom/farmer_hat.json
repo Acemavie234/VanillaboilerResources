@@ -3,8 +3,8 @@
 	"ambientocclusion": false,
 	"texture_size": [32, 32],
 	"textures": {
-		"0": "block/custom/farmer_hat",
-		"particle": "block/custom/farmer_hat"
+		"0": "item/farmer_hat",
+		"particle": "item/farmer_hat"
 	},
 	"elements": [
 		{
