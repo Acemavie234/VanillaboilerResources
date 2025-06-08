@@ -468,7 +468,12 @@
 			}
 		}
 	],
-	"display": {},
+	"display": {
+		"head": {
+			"translation": [0, -21, -3],
+			"scale": [3, 3, 3]
+		}
+	},
 	"groups": [
 		{
 			"name": "Lina2",
