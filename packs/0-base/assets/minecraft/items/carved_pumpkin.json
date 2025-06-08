@@ -11,7 +11,7 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:item/custom/lina2"
+          "model": "minecraft:item/custom/lina"
         },
         "threshold": 2
       }
