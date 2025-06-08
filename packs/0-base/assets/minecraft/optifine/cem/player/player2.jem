@@ -1,6 +1,5 @@
 {
 	"credit": "Made with Blockbench",
-	"textureSize": [64, 64],
 	"models": [
 		{
 			"part": "head",
@@ -27,7 +26,7 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]},
-				{"coordinates": [-1, 11, -17, 2, 2, 15], "textureOffset": [-10, 11]}
+				{"coordinates": [-1, 11, -7, 2, 2, 5], "textureOffset": [0, 21]}
 			],
 			"submodels": [
 				{
