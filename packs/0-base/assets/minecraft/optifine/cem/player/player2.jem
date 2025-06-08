@@ -27,7 +27,7 @@
 			"translate": [0, -24, 0],
 			"boxes": [
 				{"coordinates": [-4, 12, -2, 8, 12, 4], "textureOffset": [16, 16]},
-				{"coordinates": [-1, 11, -7, 2, 2, 5], "textureOffset": [0, 21]}
+				{"coordinates": [-1, 11, -13, 2, 2, 11], "textureOffset": [-6, 15]}
 			],
 			"submodels": [
 				{
