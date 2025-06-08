@@ -18,105 +18,105 @@
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/wizard_hat"
+          "model": "minecraft:item/custom/wizard_hat"
         },
         "threshold": 1
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/gift_hat"
+          "model": "minecraft:item/custom/gift_hat"
         },
         "threshold": 2
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/merchant_hat"
+          "model": "minecraft:item/custom/merchant_hat"
         },
         "threshold": 3
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/crown"
+          "model": "minecraft:item/custom/crown"
         },
         "threshold": 4
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/fancy_hat"
+          "model": "minecraft:item/custom/fancy_hat"
         },
         "threshold": 5
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/very_fancy_hat"
+          "model": "minecraft:item/custom/very_fancy_hat"
         },
         "threshold": 6
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/chef_hat"
+          "model": "minecraft:item/custom/chef_hat"
         },
         "threshold": 7
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/farmer_hat"
+          "model": "minecraft:item/custom/farmer_hat"
         },
         "threshold": 8
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/top_hat"
+          "model": "minecraft:item/custom/top_hat"
         },
         "threshold": 9
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/wig"
+          "model": "minecraft:item/custom/wig"
         },
         "threshold": 10
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/wizard_hat_green"
+          "model": "minecraft:item/custom/wizard_hat_green"
         },
         "threshold": 11
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/joker_hat"
+          "model": "minecraft:item/custom/joker_hat"
         },
         "threshold": 12
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/cluckshroom_hat"
+          "model": "minecraft:item/custom/cluckshroom_hat"
         },
         "threshold": 13
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/explorer_hat"
+          "model": "minecraft:item/custom/explorer_hat"
         },
         "threshold": 14
       },
       {
         "model": {
           "type": "minecraft:model",
-          "model": "minecraft:custom/detective_hat"
+          "model": "minecraft:item/custom/detective_hat"
         },
         "threshold": 15
       }
