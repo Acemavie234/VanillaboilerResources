@@ -30,20 +30,28 @@
 			],
 			"submodels": [
 				{
-					"id": "balls",
+					"id": "bone",
 					"invertAxis": "xy",
 					"translate": [0, 24, 0],
 					"boxes": [
-						{"coordinates": [0, -14, -4, 2, 2, 2], "textureOffset": [28, 16]},
-						{"coordinates": [-2, -14, -4, 2, 2, 2], "textureOffset": [28, 16]}
-					]
-				},
-				{
-					"id": "cock",
-					"invertAxis": "xy",
-					"translate": [0, 24, 0],
-					"boxes": [
-						{"coordinates": [-1, -13, -13, 2, 2, 11], "textureOffset": [-6, 15]}
+						{
+							"coordinates": [-1, -12, -11, 2, 2, 9],
+							"uvNorth": [13, 21, 15, 23],
+							"uvEast": [3, 21, 12, 23],
+							"uvSouth": [5, 23, 7, 25],
+							"uvWest": [2, 21, 11, 23],
+							"uvUp": [13, 29, 11, 20],
+							"uvDown": [7, 20, 5, 29]
+						},
+						{
+							"coordinates": [-2, -13.5, -4, 4, 2, 2],
+							"uvNorth": [13, 21, 15, 23],
+							"uvEast": [3, 21, 12, 23],
+							"uvSouth": [5, 23, 7, 25],
+							"uvWest": [2, 21, 11, 23],
+							"uvUp": [13, 29, 11, 20],
+							"uvDown": [7, 20, 5, 29]
+						}
 					]
 				}
 			]
