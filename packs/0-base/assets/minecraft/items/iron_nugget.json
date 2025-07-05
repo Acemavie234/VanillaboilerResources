@@ -13,7 +13,7 @@
           "type": "minecraft:model",
           "model": "minecraft:item/custom/motor"
         },
-        "threshold": 5
+        "threshold": 4
       },
       {
         "model": {
